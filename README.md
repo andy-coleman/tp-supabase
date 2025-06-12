@@ -4,7 +4,7 @@ Este proyecto es una aplicación web desarrollada con React y Supabase que imple
 
 ## 📸 Capturas de Pantalla
 
-![Juego de Números](./docs/images/game-screenshot.png)
+![Juego de Números](https://raw.githubusercontent.com/andy-coleman/tp-supabase/main/docs/images/game-screenshot.png)
 *Interfaz principal del juego*
 
 ## Características
