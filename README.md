@@ -2,6 +2,11 @@
 
 Este proyecto es una aplicación web desarrollada con React y Supabase que implementa un juego de adivinanza de números con autenticación de usuarios.
 
+## 📸 Capturas de Pantalla
+
+![Juego de Números](./docs/images/game-screenshot.png)
+*Interfaz principal del juego*
+
 ## Características
 
 - 🔐 Autenticación de usuarios (registro e inicio de sesión)
